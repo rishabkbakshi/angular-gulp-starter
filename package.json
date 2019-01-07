@@ -1,0 +1,22 @@
+{
+  "name": "angular-gulp-starter",
+  "version": "1.0.0",
+  "description": "Simple boilerplate using Gulp for AngularJS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabkbakshi/angular-gulp-starter.git"
+  },
+  "author": "Rishab Kumar Bakshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabkbakshi/angular-gulp-starter/issues"
+  },
+  "homepage": "https://github.com/rishabkbakshi/angular-gulp-starter#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
