@@ -1,0 +1,24 @@
+{
+    "path": {
+        "src": {
+            "sass": [
+                "src/sass/app/*.scss",
+                "src/sass/app/component/**/*.scss"
+            ],
+            "vendorCss": [
+                "node_modules/bootstrap/dist/css/bootstrap.min.css"
+            ]
+        },
+        "temp": {
+            "root": ".tmp/",
+            "css": ".tmp/styles/",
+            "vendorCss": ".tmp/styles/"
+        },
+        "dist": {
+            "root": "dist/",
+            "css": "dist/styles/",
+            "vendorCss": "dist/styles/"
+
+        }
+    }
+}
