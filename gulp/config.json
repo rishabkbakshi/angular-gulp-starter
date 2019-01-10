@@ -7,17 +7,20 @@
             ],
             "vendorCss": [
                 "node_modules/bootstrap/dist/css/bootstrap.min.css"
-            ]
+            ],
+            "assets": "src/assets/"
         },
         "temp": {
             "root": ".tmp/",
             "css": ".tmp/styles/",
-            "vendorCss": ".tmp/styles/"
+            "vendorCss": ".tmp/styles/",
+            "assets": ".tmp/assets/"
         },
         "dist": {
             "root": "dist/",
             "css": "dist/styles/",
-            "vendorCss": "dist/styles/"
+            "vendorCss": "dist/styles/",
+            "assets": "dist/assets/"
 
         }
     }

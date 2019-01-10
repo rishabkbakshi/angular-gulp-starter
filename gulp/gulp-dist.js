@@ -10,5 +10,6 @@ gulp.task('clean:dist', clean);
 
 gulp.task("build:dist", gulp.series(
     'clean:dist',
-    "styles:dist"
+    "styles:dist",
+    "assets:dist"
 ));
